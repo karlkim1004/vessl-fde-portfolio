@@ -6,16 +6,16 @@ Seoul, South Korea · Founder and enterprise AI delivery leader
 
 This portfolio describes work I can substantiate from source repositories, merged pull requests, deployment records, and internal product records. Confidential customer names, credentials, personal data, and private source code are intentionally omitted.
 
-## Fit for VESSL AI FDE
+## VESSL AI FDE alignment
 
 | VESSL requirement | Evidence in this portfolio | Boundary |
 |---|---|---|
-| Customer-facing technical practice | 15+ years across software development, solution architecture, BA/SA, PM/PL, consulting, and enterprise delivery | Customer names are disclosed only where already public or safe to generalize |
-| Solution design and technical explanation | LG D2C service planning; HiaaS/Eden AI, RPA, and enterprise platform engagements; NexAI product architecture | No unverified contract values or win claims |
+| Customer-facing technical practice | Documented software development, solution architecture, BA/SA, PM/PL, consulting, and enterprise delivery roles in the private resume record | This public artifact does not make an unverified duration claim; customer names are generalized unless disclosure is safe |
+| Solution design and technical explanation | Global electronics D2C service planning; HiaaS/Eden AI, RPA, and enterprise platform engagements; NexAI product architecture | No unverified contract values or win claims |
 | AI workload understanding | NexAI on-device Korean NER and multi-channel parsing architecture; 5ETS AI consensus and operations automation | Government proposal was submitted and not selected; no funded delivery is claimed |
 | PoC, onboarding, migration, and incident problem solving | Enterprise rollout governance and operational runbooks; Multica validator/worker-pool and handoff workflows | Direct GPU-cluster migration leadership is not claimed; this is the primary VESSL gap |
 | Python/log/error diagnosis | Public Multica platform source and merged implementation PRs; prior software development experience | Latest public GPU/Python production evidence is limited; no claim of deep PyTorch/vLLM expertise |
-| Clear communication across teams | Customer discovery, scope framing, stakeholder alignment, technical delivery, and evidence-based handoffs | Start date, if requested: approximately one month after offer signing |
+| Clear communication across teams | Customer discovery, scope framing, stakeholder alignment, technical delivery, and evidence-based handoffs | Specific employment start dates are not asserted here |
 
 ## Project 1 — Multica multi-agent orchestration
 
