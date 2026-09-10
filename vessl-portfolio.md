@@ -17,19 +17,19 @@ This portfolio describes work I can substantiate from source repositories, merge
 | Python/log/error diagnosis | Public Multica platform source and merged implementation PRs; prior software development experience | Latest public GPU/Python production evidence is limited; no claim of deep PyTorch/vLLM expertise |
 | Clear communication across teams | Customer discovery, scope framing, stakeholder alignment, technical delivery, and evidence-based handoffs | Specific employment start dates are not asserted here |
 
-## Project 1 — Multica multi-agent orchestration
+## Project 1 — AIDO multi-agent operations on Multica
 
 ### Problem
 
-AI coding agents can produce useful changes but become difficult to coordinate when ownership, verification, waiting reasons, and completion state are ambiguous. The system needed a practical operating model for assigning work, routing follow-up tasks, validating outcomes, and preserving an audit trail.
+AI coding agents can produce useful changes but become difficult to coordinate when ownership, verification, waiting reasons, and completion state are ambiguous. The team needed a practical operating model for assigning work, routing follow-up tasks, validating outcomes, and preserving an audit trail.
 
 ### Role
 
-Founder and product/technical strategist for the operating model; contributed to product direction, workflow contracts, verification gates, and delivery coordination.
+Adopter and operator of the existing Multica platform, customized and extended for AIDO's multi-agent workflow; contributed product direction, workflow contracts, verification gates, and delivery coordination on top of the base platform. Multica itself is a pre-existing platform, not originated by me.
 
 ### Technical structure
 
-Multica is a web platform with issue/task state, agent and squad routing, comments and mentions, repository context, worker dispatch, validator gates, and a virtual-office view. The workflow separates task assignment from verification and uses explicit waiting ownership and unblock conditions.
+Multica is a web platform with issue/task state, agent and squad routing, comments and mentions, repository context, worker dispatch, validator gates, and a virtual-office view. I adopted this base platform for AIDO and built the operating model on it: the workflow separates task assignment from verification and uses explicit waiting ownership and unblock conditions.
 
 ### Implemented examples
 
